@@ -5,7 +5,7 @@ DATE = "$$(date +%F)"
 HTMLFLAGS = -c site/normalize.css \
             -c site/site.css \
             -s -S --mathjax --email-obfuscation=references \
-            -V date:$(DATE) -V author:$(AUTHOR) --filter pandoc-citeproc
+            -V date-meta:$(DATE) -V author-meta:$(AUTHOR) --filter pandoc-citeproc
 
 all: $(TARGETS)
 
