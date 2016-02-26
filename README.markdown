@@ -1,13 +1,10 @@
----
-title: ghsalazar.github.io
-author: |
-        [Gastón H. Salazar Silva](./index.html)
----
+# ghsalazar.github.io {.title}
+## [Gastón H. Salazar-Silva](http://ghsalazar.github.io) {.author}
 
 Éste es mi sitio personal. Actualmente me encuentro en proceso de
 transferirlo a [GitHub](github.com).
 
-# Herramientas
+## Herramientas
 
 La mayoría del trabajo lo realizo en la distribución
 [Ubuntu](http://www.ubuntu.com/) del sistema operativo
