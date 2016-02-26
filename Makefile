@@ -1,10 +1,11 @@
 TARGETS = LICENSE index.html
 
+AUTHOR = "[Gastón H. SALAZAR-SILVA](ghsalazar.github.io)"
 DATE = "$$(date +%F)"
 HTMLFLAGS = -c site/normalize.css \
             -c site/site.css \
             -s -S --mathjax --email-obfuscation=references \
-            -V date:$(DATE) --filter pandoc-citeproc
+            -V date:$(DATE) -V author:$(AUTHOR) --filter pandoc-citeproc
 
 all: $(TARGETS)
 
