@@ -1,4 +1,6 @@
-# Gastón H. Salazar Silva {.title}
+DATE
+
+# Gastón H. Salazar Silva
 
 Este es mi pequeño lugar en el Internet donde están los cursos que
 imparto. Por el momento, estoy impartiendo:

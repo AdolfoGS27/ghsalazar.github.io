@@ -1,5 +1,8 @@
+[Gastón H. Salazar-Silva](http://ghsalazar.github.io)  
+DATE
+
 # ghsalazar.github.io {.title}
-## [Gastón H. Salazar-Silva](http://ghsalazar.github.io) {.author}
+
 
 Éste es mi sitio personal. Actualmente me encuentro en proceso de
 transferirlo a [GitHub](github.com).

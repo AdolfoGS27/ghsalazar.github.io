@@ -13,8 +13,8 @@ all: $(TARGETS)
 LICENSE: LICENSE.markdown
 	pandoc -t plain -o $@ $<
 
-%.html: %.markdown
-	pandoc $(HTMLFLAGS) -o $@ $< 
+%.html: %.markdown site/site.css site/CCA-SA-4.0.inc
+	gpp -D DATE=$(DATE) $< | pandoc -f markdown $(HTMLFLAGS) -o $@
 
 .PHONNY: clean
 
