@@ -1,16 +1,15 @@
----
-title: Gastón H. Salazar Silva
-...
+# Gastón H. Salazar Silva
 
 Este es mi pequeño lugar en el Internet donde están los cursos que
 imparto. Por el momento, estoy impartiendo:
 
-* [Control  de sistemas mecatrónicos](../cursos/csm/README.html).
-* [Realidad virtual](../cursos/rv/README.html).
+* [Control  de sistemas mecatrónicos](csm/README.html).
+* [Realidad virtual](rv/README.html).
+* Control de máquinas eléctricas.
 
 Si te interesa puedes revisar mi
-[currículo vítae](../cv/resumen.html) y mi
-[lista de publicaciones](../cv/publicaciones.html).
+[currículo vítae](cv/resumen.html) y mi
+[lista de publicaciones](cv/publicaciones.html).
 
 Me pueden contactar en twitter como
 @[gaston_salazar](https://twitter.com/gaston_salazar) y en Facebook
