@@ -1,7 +1,7 @@
 [Gastón H. Salazar-Silva](http://ghsalazar.github.io)  
 DATE
 
-# ghsalazar.github.io {.title}
+# ghsalazar.github.io
 
 
 Éste es mi sitio personal. Actualmente me encuentro en proceso de
