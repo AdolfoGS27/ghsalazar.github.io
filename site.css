@@ -1,0 +1,46 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+    background-color: #fdf6e3;
+    color: #657b83;
+    margin: auto;
+    max-width: 44em;
+}
+
+.title, .author, .date {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #6c71c4;
+}
+
+pre, code {
+    background-color: #eee8d5
+}
+
+code {
+    color: #586e75;
+    font-family: monospace, serif;
+    font-size: 1em;
+}
+
+.figure {
+    text-align: center
+}
