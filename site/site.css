@@ -31,3 +31,9 @@ code {
 h1 {
     text-align: center
 }
+
+img {
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
